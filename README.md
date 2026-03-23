@@ -1,2 +1,23 @@
-# powerbi-sales-dashboard
-Sales dashboard project using Power BI (DAX, Power Query)
+# 📊 Sales Performance Dashboard (Power BI)
+
+## 📌 Overview
+This project analyzes sales performance using Power BI.
+
+## 🛠 Tools Used
+- Power BI
+- Power Query
+- DAX
+
+## 📈 Key Features
+- Built KPIs: Total Sales, Profit Margin
+- Top N Products analysis using DAX
+- Interactive dashboard with slicers
+- Conditional formatting for insights
+
+## 🔍 Insights
+- Identified top-performing products
+- Analyzed profit trends across segments
+
+## 📎 Files
+- Power BI file (.pbix)
+- Dataset (.xlsx)
