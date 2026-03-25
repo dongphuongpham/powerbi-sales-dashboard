@@ -22,5 +22,6 @@ This project analyzes sales performance using Power BI.
 - Power BI file (.pbix)
 - Dataset (.xlsx)
 
-
-## **Screenshot**
+## 📸 Screenshot
+![Dashboard](https://github.com/dongphuongpham/powerbi-sales-dashboard/blob/main/Screenshot%202026-03-25%20114902.png)
+ 
