@@ -21,3 +21,6 @@ This project analyzes sales performance using Power BI.
 ## 📎 Files
 - Power BI file (.pbix)
 - Dataset (.xlsx)
+
+
+## **Screenshot**
